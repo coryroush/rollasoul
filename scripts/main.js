@@ -36,7 +36,10 @@ $(function() {
              "Monk",
              "Wayfarer",
              "Syssin",
-             "Shapeshifter"
+             "Shapeshifter",
+             "Akkari",
+             "Tidesage",
+             "Bard"
          ],
          class_shadow: [
              "Indorani",
@@ -50,7 +53,10 @@ $(function() {
              "Monk",
              "Wayfarer",
              "Syssin",
-             "Shapeshifter"
+             "Shapeshifter",
+             "Bard",
+             "Ravager",
+             "Alchemist"
          ],
          race: [
              "Arborean",
@@ -77,18 +83,18 @@ $(function() {
              "Xoran"
          ],
         faction_spirit: [
-             "Enorian",
-             "Duiran"
+            "Enorian",
+            "Duiran"
          ],
         faction_shadow: [
-             "Bloodloch",
-             "Spinesreach"
+            "Bloodloch",
+            "Spinesreach"
         ],
         gender: [
-             "male",
-             "female",
-             "non-binary",
-             "genderless"
+            "male",
+            "female",
+            "non-binary",
+            "genderless"
         ],
         god_spirit: [
             "Damariel",
